@@ -30,9 +30,7 @@ You can train a model, save it, reload it, and classify new messages in real-tim
 
 ## 📂 Folder Structure
 
-Spam-Detection-NaiveBayes/
-
-├── maincode.py # Main GUI-based Python application
+Spam-Detection-NaiveBayes/├── maincode.py # Main GUI-based Python application
 ├── sample_dataset.csv # Example dataset (Message, Category)
 ├── README.md
 
