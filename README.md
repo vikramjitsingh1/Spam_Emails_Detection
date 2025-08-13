@@ -31,6 +31,7 @@ You can train a model, save it, reload it, and classify new messages in real-tim
 ## 📂 Folder Structure
 
 Spam-Detection-NaiveBayes/
+
 ├── maincode.py # Main GUI-based Python application
 ├── sample_dataset.csv # Example dataset (Message, Category)
 ├── README.md
@@ -39,7 +40,7 @@ Spam-Detection-NaiveBayes/
 
 ## 📦 Installation & Running:
 ### 1️⃣ Clone this repository
-```bash
+
 git clone https://github.com/your-username/spam-ham-detection.git
 cd spam-ham-detection
 
