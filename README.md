@@ -29,11 +29,12 @@ You can train a model, save it, reload it, and classify new messages in real-tim
 ---
 
 ## 📂 Folder Structure
-
-Spam-Detection-NaiveBayes/├── maincode.py # Main GUI-based Python application
+Spam-Detection-NaiveBayes/
+├── maincode.py # Main GUI-based Python application
 ├── sample_dataset.csv # Example dataset (Message, Category)
-├── README.md
-
+├── spam_model.pkl # Saved trained model (after training)
+├── vectorizer.pkl # Saved TF-IDF vectorizer (after training)
+├── README.md # Project documentation
 ---
 
 ## 📦 Installation & Running:
@@ -70,13 +71,13 @@ Your dataset should have two columns:
 
 ## Use Case
 
-*Learning Text Classification with Naive Bayes
-*Academic NLP projects
-*Building real-time spam filters
-*Understanding TF-IDF vectorization
+* Learning Text Classification with Naive Bayes
+* Academic NLP projects
+* Building real-time spam filters
+* Understanding TF-IDF vectorization
 
 ## Credits
 
-Developed by Vikramjit Singh
+**Developed by Vikramjit Singh**
 Based on Naive Bayes classification concepts and improved with TF-IDF + GUI integration.
 
